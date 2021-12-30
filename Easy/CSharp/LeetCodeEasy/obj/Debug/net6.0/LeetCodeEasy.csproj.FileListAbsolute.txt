@@ -1,0 +1,15 @@
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\bin\Debug\net6.0\LeetCodeEasy.exe
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\bin\Debug\net6.0\LeetCodeEasy.deps.json
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\bin\Debug\net6.0\LeetCodeEasy.runtimeconfig.json
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\bin\Debug\net6.0\LeetCodeEasy.dll
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\bin\Debug\net6.0\ref\LeetCodeEasy.dll
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\bin\Debug\net6.0\LeetCodeEasy.pdb
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\obj\Debug\net6.0\LeetCodeEasy.csproj.AssemblyReference.cache
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\obj\Debug\net6.0\LeetCodeEasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\obj\Debug\net6.0\LeetCodeEasy.AssemblyInfoInputs.cache
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\obj\Debug\net6.0\LeetCodeEasy.AssemblyInfo.cs
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\obj\Debug\net6.0\LeetCodeEasy.csproj.CoreCompileInputs.cache
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\obj\Debug\net6.0\LeetCodeEasy.dll
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\obj\Debug\net6.0\ref\LeetCodeEasy.dll
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\obj\Debug\net6.0\LeetCodeEasy.pdb
+C:\LeetCode\Easy\CSharp\LeetCodeEasy\obj\Debug\net6.0\LeetCodeEasy.genruntimeconfig.cache
